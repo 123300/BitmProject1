@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\bin\Debug\Stock Management System (Sales Module).exe.config
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\bin\Debug\Stock Management System (Sales Module).exe
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\bin\Debug\Stock Management System (Sales Module).pdb
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock Management System (Sales Module).csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock_Management_System__Sales_Module_.Sales.resources
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock_Management_System__Sales_Module_.Properties.Resources.resources
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock Management System (Sales Module).csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock Management System (Sales Module).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock Management System (Sales Module).exe
+C:\Users\Hp\Desktop\Stock Management System\Stock Management System (Sales Module)\Stock Management System (Sales Module)\obj\Debug\Stock Management System (Sales Module).pdb
